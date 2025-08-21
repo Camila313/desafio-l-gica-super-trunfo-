@@ -1,0 +1,64 @@
+"C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242/bin/igor/windows/x64/Igor.exe"  -j=8  -options="C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP\build.bff" -v -- Windows Run
+
+Loaded Macros from C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C\macros.json
+Options: C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242\bin\platform_setting_defaults.json
+Options: C:\Users\win\AppData\Roaming/GameMakerStudio2\unknownUser_unknownUserID\local_settings.json
+Failed to load Options from C:\Users\win\AppData\Roaming/GameMakerStudio2\unknownUser_unknownUserID\local_settings.json
+Options: C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C\targetoptions.json
+Setting up the Asset compiler
+C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242/bin/assetcompiler/windows/x64/GMAssetCompiler.dll  /c /mv=1 /zpex /iv=0 /rv=0 /bv=0 /j=8  /gn="Desafio Lógica Super Trunfo" /td="C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP" /cd="C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C" /rtp="C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242" /zpuf="C:\Users\win\AppData\Roaming/GameMakerStudio2\unknownUser_unknownUserID" /prefabs="C:\ProgramData/GameMakerStudio2/Prefabs"   /ffe="d3t+fjZrf25zeTdwgjZ5em98a3GCN4ODbTZzeH5vdnZzfW94fW82eH92dnN9cjZ2eXFzeGl9fXk2fm99fjZtf31+eXdpb3iANnBzdn41cII2cYJpd3luaYFrdnZ6a3pvfDZxgml3eW5pcWt3b31+fHN6NnZzgG9pgWt2dnprem98aX1/bH1tfHN6fnN5eDZteW5vN29uc355fDZ9fnxzeml/eH99b25pa319b359Nn96bmt+bzd6fHltb319NnprbXVrcW83d2t4a3FvfDZ6fG9wa2w3dnNsfGt8gzZ9gHE=" /m=windows /tgt=64 /nodnd /cfg="Default" /o="C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP\Desafio_Lógica_Super_Trunfo_222A54D4_VM" /sh=True /optionsini="C:\Use
+rs\win\AppData\Local\GameMakerStudio2\GMS2TEMP\Desafio_Lógica_Super_Trunfo_222A54D4_VM\options.ini"  /cvm /baseproject="C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242\BaseProject\BaseProject.yyp" "C:\Users\win\Downloads\Jogos\Desafio Lógica Super Trunfo.yyp" /preprocess="C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C"
+Found Project Format 2
+Core Resources : Info - TextureGroup missing for Font - fnt_righteous - resetting to Default Texture Group
++++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 711.4316ms
+Loaded Project: Desafio Lógica Super Trunfo
+finished.
+Found Project Format 2
++++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 37.6301ms
+Loaded Project: __yy_sdf_shader
+finished.
+Found Project Format 2
++++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 41.7549ms
+Loaded Project: __yy_sdf_effect_shader
+finished.
+Found Project Format 2
++++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 30.9868ms
+Loaded Project: __yy_sdf_blur_shader
+finished.
+Found Project Format 2
++++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 21.0794ms
+Loaded Project: GMPresetParticles
+finished.
+Debug build
+Options: C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C\ExtensionOptions.json
+OptionsIni
+Options: C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C\PlatformOptions.json
+[Compile] Run asset compiler
+C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242/bin/assetcompiler/windows/x64/GMAssetCompiler.dll  /c /mv=1 /zpex /iv=0 /rv=0 /bv=0 /j=8  /gn="Desafio Lógica Super Trunfo" /td="C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP" /cd="C:\Users\win\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Desafio_Ló_ED884F4C" /rtp="C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242" /zpuf="C:\Users\win\AppData\Roaming/GameMakerStudio2\unknownUser_unknownUserID" /prefabs="C:\ProgramData/GameMakerStudio2/Prefabs"   /ffe="d3t+fjZrf25zeTdwgjZ5em98a3GCN4ODbTZzeH5vdnZzfW94fW82eH92dnN9cjZ2eXFzeGl9fXk2fm99fjZtf31+eXdpb3iANnBzdn41cII2cYJpd3luaYFrdnZ6a3pvfDZxgml3eW5pcWt3b31+fHN6NnZzgG9pgWt2dnprem98aX1/bH1tfHN6fnN5eDZteW5vN29uc355fDZ9fnxzeml/eH99b25pa319b359Nn96bmt+bzd6fHltb319NnprbXVrcW83d2t4a3FvfDZ6fG9wa2w3dnNsfGt8gzZ9gHE=" /m=windows /tgt=64 /nodnd /cfg="Default" /o="C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP\Desafio_Lógica_Super_Trunfo_222A54D4_VM" /sh=True /optionsini="C:\Use
+rs\win\AppData\Local\GameMakerStudio2\GMS2TEMP\Desafio_Lógica_Super_Trunfo_222A54D4_VM\options.ini"  /cvm /baseproject="C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242\BaseProject\BaseProject.yyp" "C:\Users\win\Downloads\Jogos\Desafio Lógica Super Trunfo.yyp" /dbgp=6509 /nofs /debug /bt=run /rt=vm /arch=32
+Looking for built-in fallback image in C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242\bin\BuiltinImages
+Compile Constants...finished.
+Remove DnD...finished.
+Compile Scripts...finished.
+Compile Rooms...finished..... 0 CC empty
+Compile UI Layers...finished..... 0 CC empty
+Compile Objects...finished.... 1 empty events
+Compile Timelines...finished.
+Compile Triggers...finished.
+Compile Extensions...finished.
+Global scripts...finished.
+finished.
+collapsing enums.
+Final Compile...
+-------------------------------------------------------
+NOTE: 44 Unused Assets found (and will be removed) - 
+
+GMParticleSystem :: ps_card_highlight, ps_card_placed, ps_sparkle, ps_suits_placed_on_deck, ps_winning_confetti
+GMSequence :: seq_3_card_draw, seq_card_reveal, seq_pause_pop_up_old
+GMSound :: snd_start_game_button
+GMSprite :: pay_button, spr_bg_demo, spr_bg_title, spr_blank_card, spr_card_demo, spr_card_stroke_blur, spr_club_blur, spr_club_with_blur, spr_diamond_blur, spr_diamond_with_blur, spr_heart_blur, spr_heart_with_blur, spr_layout_mapping, spr_little_exclamation, spr_menu_close_button, spr_menu_mute_button, spr_menu_sound_button, spr_pause_black_overlay, spr_pause_mini_home, spr_pause_mini_play, spr_pause_mini_replay, spr_pause_ribbon_paused, spr_pause_text_box, spr_replay_button, spr_spade_with_blur, spr_splash_bg, spr_splash_cards, spr_splash_title, spr_title, spr_ui_demohand, spr_win_home_button, spr_win_replay_button_1, spr_win_replay_button_2, spr_win_ribbon, spr_win_text_box
+-------------------------------------------------------
+
+finished.
+Looking for built-in particle images in C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2024.13.1.242\bin\assetcompiler\ParticleImages
+Saving IFF file... C:\Users\win\AppData\Local\GameMakerStudio2\GMS2TEMP\Desafio_Lógica_Super_Trunfo_222A54D4_VM\Desafio Lógica Super Trunfo.win
